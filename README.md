@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StuRinDQB
-- 👀 I’m interested in software developing especially back-end field.
-- 🌱 I’m currently learning distributed operating system and cloud computing
+- 👀 I’m interested in web software developing.
+- 🌱 I’m currently looking for SDE new grad position in USA.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
