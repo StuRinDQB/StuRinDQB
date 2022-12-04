@@ -8,4 +8,4 @@
 StuRinDQB/StuRinDQB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I am a student from University of Pittsburgh major in Computer and information science.
+I am a student from University of Pittsburgh major in information science.
