@@ -1,1 +1,1 @@
-Yiming Zeng, CS PhD student at University of Connecticut
+Interested in LLMs, Software engineering and bioinformatics field.
