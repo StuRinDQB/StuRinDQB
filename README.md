@@ -3,15 +3,14 @@
 Welcome to my GitHub profile! I'm passionate about **Large Language Models (LLMs)**, **Software Engineering**, and **Bioinformatics**. I love exploring cutting-edge technologies, solving complex problems, and contributing to open-source projects.
 
 ## 🔍 About Me
-- 🚀 **AI & LLM Enthusiast** – Exploring the capabilities of large-scale AI models, natural language processing, and multi-core processing (MCP) for AI-powered code generation.
+- 🚀 **AI & LLM Enthusiast** – Exploring the capabilities of large-scale AI models, natural language processing and finetuning models for specific use.
 - 💻 **Software Engineering** – Passionate about building scalable, maintainable, and high-performance software solutions.
 - 🧬 **Bioinformatics** – Bridging the gap between biology and computing to develop innovative solutions for data-driven research.
 - 🎓 Currently PhD student in **Computer Science and Engineering** at the **University of Connecticut**.
 
 ## 📌 Interests
-- **AI & Machine Learning** – Deep learning, NLP, and AI-driven development.
+- **AI & Machine Learning** – NLP, and AI-driven development.
 - **Code Generation** – Enhancing AI-powered programming and developer tools.
-- **Multi-Core Processing (MCP)** – Optimizing performance for AI-driven software engineering.
 
 ## 📫 How to Reach Me
 - 🏗️ Work in progress! You can reach out via **GitHub Issues** or discussions.
